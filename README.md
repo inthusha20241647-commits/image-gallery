@@ -1,6 +1,6 @@
 # 🌸 Image Gallery
 
-A simple image gallery created using HTML and CSS. The project displays flower images in a flexible layout with titles and descriptions.
+A simple image gallery created using HTML and CSS to practice flexbox layout that displays flower images in a flexible layout with titles and descriptions.
 
 ## 🌐 Live Website
 
